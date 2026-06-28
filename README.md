@@ -13,6 +13,8 @@ List all saved accounts
 Generate strong random passwords
 Encrypt and decrypt passwords using a master key
 Cross-platform (Windows, macOS, Linux)
+
+
 🛠️ Technologies Used
 
 Python 3.8+
