@@ -1,4 +1,6 @@
-🔐 Password Manager in Python
+##🔐 Password Manager in Python
+
+
 A secure and simple password manager built with Python to store, retrieve, and manage your credentials safely.
 This tool uses encryption to protect sensitive information and provides a command-line interface (CLI) for easy usage.
 
